@@ -10,5 +10,5 @@ in a repeatable fashion.
 
 - Apache Benchmark **ab**
 - Lighttpd's **weighttp**
-- **Siege**
+- **Siege** for Windows is a HTPP Load Testing and Benchmarking Utility
 - Nginx's **wrk** - still searching for a windows version
